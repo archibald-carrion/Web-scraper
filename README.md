@@ -9,3 +9,9 @@ For the moment the only doc in the project are :
 
 ## Description of the project
 Web scraper made with python that collect images or others specific elements from a given website
+
+## Usefull command line
+For this project i use the Beatiful Soup librairy, to install it I use the following command line 
+```
+pip install beautifulsoup4
+```
