@@ -9,9 +9,17 @@ For the moment the only doc in the project are :
 
 ## Description of the project
 Web scraper made with python that collect images or others specific elements from a given website
+### Useful resources
+- [beautiful soup 4 documentation](https://beautiful-soup-4.readthedocs.io/en/latest/)
+- [lxml documentation](https://lxml.de/)
 
-## Usefull command line
-For this project i use the Beatiful Soup librairy, to install it I use the following command line 
+## Useful command line
+For this project I use the Beatiful Soup librairy, to install it I use the following command line 
 ```
 pip install beautifulsoup4
 ```
+I also use the lxml librairy for processing XML and HTML, to install it I use the following command line 
+```
+pip install lxml
+```
+
